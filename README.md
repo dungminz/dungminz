@@ -1,2 +1,3 @@
-I’m a UET-VNU undergraduate student.
+Undergraduate at UET-VNU.  
+
 I love to pwn ^^
